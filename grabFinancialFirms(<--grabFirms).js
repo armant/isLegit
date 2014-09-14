@@ -39,7 +39,7 @@
  var firmString = "var notable = [";
  
  for (i = 0; i < notable.length; i++) {
-    firmString += "[" + notable[i][0] + ", " + notable[i][1] + "], ";
+    firmString += '["' + notable[i][0] + '", "' + notable[i][1] + '"], ';
   };
  
  $('body').html(firmString + "];");
