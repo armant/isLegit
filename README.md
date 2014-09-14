@@ -7,7 +7,7 @@ Sources:<br>
 
 <a href="http://en.wikipedia.org/wiki/List_of_investment_banks" target="_blank">List of investment banks</a>
 
-<a href="http://en.wikipedia.org/wiki/List_of_investment_banks" target="_blank">List of private equity firms</a>
+<a href="http://en.wikipedia.org/wiki/List_of_private_equity_firms" target="_blank">List of private equity firms</a>
 
 <a href="http://en.wikipedia.org/wiki/List_of_hedge_funds" target="_blank">List of hedge funds</a>
 
