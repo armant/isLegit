@@ -1,0 +1,19 @@
+{
+  "name": "is legit?",
+  "manifest_version": 2,
+  "version": "0.1",
+  "description": "Indicates if the listing you see on PennLink is notable.",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+    
+  "content_scripts": [
+    {
+      "matches": ["https://upenn-csm.symplicity.com/*"],
+      "css": ["notable.css"],
+      "js": ["jquery-2.1.1.min.js", "notable.js"]
+    }
+  ],
+    
+  "permissions": ["https://upenn-csm.symplicity.com/", "tabs"]
+}
