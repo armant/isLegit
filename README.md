@@ -1,4 +1,7 @@
-Detects the legit firms on <a href="http://www.vpul.upenn.edu/careerservices/pennlink_jobseekers.php" target="_blank">PennLink</a>.<br>
+isLegit
+=======
+
+A Chrome extenstion that detects the legit firms on <a href="http://www.vpul.upenn.edu/careerservices/pennlink_jobseekers.php" target="_blank">PennLink</a>.<br>
 
 Sources:<br>
 <a href="http://en.wikipedia.org/wiki/List_of_companies_of_the_United_States" target="_blank">List of notable US firms</a>
