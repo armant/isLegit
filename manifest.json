@@ -10,10 +10,10 @@
   "content_scripts": [
     {
       "matches": ["https://upenn-csm.symplicity.com/*"],
-      "css": ["notable.css"],
       "js": ["jquery-2.1.1.min.js", "notable.js"]
     }
   ],
     
-  "permissions": ["https://upenn-csm.symplicity.com/", "tabs"]
+  "permissions": ["https://upenn-csm.symplicity.com/", "tabs"],
+  "web_accessible_resources": ["icon.png"]
 }
